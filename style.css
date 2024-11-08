@@ -42,6 +42,9 @@ body {
 }
 
 .title1 {
+  position: absolute;
+  top: 80px;
+  left: 155px;
   font-size: 50px; /* Define o tamanho da fonte para o título principal */
   font-weight: bold; /* Define o peso da fonte como negrito */
   margin: 0; /* Remove a margem ao redor do título */
